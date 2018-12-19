@@ -1,4 +1,4 @@
-# Latest-Wordpress-version-Python-API
+# Latest Wordpress version Python : API
 
 Simple Python script to get the latest version of Worpress from wordpress.org using Wordpress API. The script can be used anywhere where you require the latest version of Wordpress.
  
